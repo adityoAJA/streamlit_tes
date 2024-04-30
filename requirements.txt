@@ -10,3 +10,5 @@ xarray
 numpy
 netcdf4
 matplotlib
+branca
+xyzservices
