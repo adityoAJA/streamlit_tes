@@ -1,5 +1,11 @@
 folium
 streamlit-folium
+cftime
+contourpy
+cycler
+fonttools
+kiwisolver
+pyparsing
 xarray
 numpy
 netcdf4
